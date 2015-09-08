@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "guid": "ecfb227e-425a-4d48-b8e1-429ead5c16df",
+    "age": 37,
+    "eyeColor": "brown",
+    "name": "Fox Howe",
+    "gender": "male",
+    "company": "IMAGEFLOW",
+    "email": "foxhowe@imageflow.com",
+    "phone": "+1 (891) 485-2072",
+    "address": "880 Tech Place, Salunga, District Of Columbia, 821"
+  },
+  {
+    "id": 1,
+    "guid": "7383bd26-8227-4052-aa9f-f7c584be364e",
+    "age": 28,
+    "eyeColor": "green",
+    "name": "Gilda Kinney",
+    "gender": "female",
+    "company": "UTARIAN",
+    "email": "gildakinney@utarian.com",
+    "phone": "+1 (993) 429-2068",
+    "address": "527 Ryerson Street, Century, American Samoa, 7216"
+  },
+  {
+    "id": 2,
+    "guid": "e4fb4ec9-b731-475f-86b8-8a352f602c57",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": "Ora Tyler",
+    "gender": "female",
+    "company": "MICROLUXE",
+    "email": "oratyler@microluxe.com",
+    "phone": "+1 (840) 485-2483",
+    "address": "258 Seacoast Terrace, Klagetoh, Louisiana, 9837"
+  },
+  {
+    "id": 3,
+    "guid": "525e6f92-85d9-4d81-90e6-40587c205d89",
+    "age": 29,
+    "eyeColor": "brown",
+    "name": "Carpenter Soto",
+    "gender": "male",
+    "company": "EXOZENT",
+    "email": "carpentersoto@exozent.com",
+    "phone": "+1 (932) 412-2027",
+    "address": "231 Locust Street, Echo, Palau, 1947"
+  },
+  {
+    "id": 4,
+    "guid": "e04386f2-f6ec-4517-94cd-78e235cfcf22",
+    "age": 30,
+    "eyeColor": "green",
+    "name": "Greene House",
+    "gender": "male",
+    "company": "DEVILTOE",
+    "email": "greenehouse@deviltoe.com",
+    "phone": "+1 (983) 520-3746",
+    "address": "322 Richards Street, Bainbridge, Oklahoma, 2791"
+  },
+  {
+    "id": 5,
+    "guid": "6f6b963a-03c8-4e9f-b872-cb8f8dcce2ea",
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Kaye Ward",
+    "gender": "female",
+    "company": "GADTRON",
+    "email": "kayeward@gadtron.com",
+    "phone": "+1 (869) 428-3576",
+    "address": "958 Tapscott Street, Crucible, Minnesota, 8182"
+  },
+  {
+    "id": 6,
+    "guid": "fd4c310e-482a-46ec-977e-fece6f80da2f",
+    "age": 33,
+    "eyeColor": "green",
+    "name": "Levine White",
+    "gender": "male",
+    "company": "YOGASM",
+    "email": "levinewhite@yogasm.com",
+    "phone": "+1 (812) 437-2810",
+    "address": "218 Ashland Place, Windsor, Delaware, 3901"
+  }
+]
