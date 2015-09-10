@@ -1,0 +1,26 @@
+{
+  "name": "extjs-coding-task",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "napa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thealjey/ExtJS-coding-task.git"
+  },
+  "author": "Eugene Kuzmenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thealjey/ExtJS-coding-task/issues"
+  },
+  "homepage": "https://github.com/thealjey/ExtJS-coding-task#readme",
+  "devDependencies": {
+    "napa": "^1.2.0"
+  },
+  "napa": {
+    "extjs": "bjornharrtell/extjs#5.1.1"
+  }
+}
